@@ -1,8 +1,5 @@
-# Name: Mohammed Hisham Moizuddin
-# UIN: 650344339
-# CS 341 - Project 1 | Fall 2022 | Professor Patrick Troy
-# Description: A console-based Python program that inputs commands from the user and outputs data from the CTA2 L daily ridership database.
-
+# Mohammed Hisham Moizuddin
+# A console-based Python program that inputs commands from the user and outputs data from the CTA2 L daily ridership database.
 
 import sqlite3
 import matplotlib.pyplot as plt
@@ -455,7 +452,7 @@ def userCommandHelper(dbConn):
 print('** Welcome to CTA L analysis app **')
 print()
 
-dbConn = sqlite3.connect('CTA2_L_daily_ridership.db')
+dbConn = sqlite3.connect('CTA2_L_daily_ridership.db') # Database File
 
 print_stats(dbConn)
 
