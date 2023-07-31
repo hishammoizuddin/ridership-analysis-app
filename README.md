@@ -2,7 +2,7 @@
 
 This repository contains a Python application for in-depth analysis of ridership data of the Chicago Transit Authority (CTA) 'L' trains. It provides multiple functionalities for users to interactively explore, analyze, and visualize the CTA ridership data.
 
-<img src="https://github.com/hishammoizuddin/ridership-analysis-app/assets/78191578/5d67b332-792e-4275-a0c5-7483906ac799" width=60% height=60%>
+<img src="https://github.com/hishammoizuddin/ridership-analysis-app/assets/78191578/5d67b332-792e-4275-a0c5-7483906ac799" width=70% height=70%>
 
 
 ## Tech Stack
