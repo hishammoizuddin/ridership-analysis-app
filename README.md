@@ -28,7 +28,3 @@ The application offers the following functionalities to explore and analyze the 
 ## Usage
 
 To start using the application, clone the repository and run `main.py`. Follow the command-line instructions to interact with the application and explore the functionalities.
-
-## Contributing
-
-Contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
